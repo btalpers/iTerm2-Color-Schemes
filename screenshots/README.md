@@ -88,10 +88,6 @@ Screenshots
 
 ![image](c64.png)
 
-`calamity.png`
-
-![image](calamity.png)
-
 `chalk.png`
 
 ![image](chalk.png)
@@ -99,10 +95,6 @@ Screenshots
 `chalkboard.png`
 
 ![image](chalkboard.png)
-
-`challenger_deep.png`
-
-![image](challenger_deep.png)
 
 `ciapre.png`
 
@@ -127,9 +119,6 @@ Screenshots
 `dark_pastel.png`
 
 ![image](dark_pastel.png)
-
-`dark_plus.png`
-![image](dark_plus.png)
 
 `darkside.png`
 
@@ -183,10 +172,6 @@ Screenshots
 
 ![image](espresso_libre.png)
 
-`fahrenheit.png`
-
-![image](fahrenheit.png)
-
 `fideloper.png`
 
 ![image](fideloper.png)
@@ -218,10 +203,6 @@ Screenshots
 `forest_blue.png`
 
 ![image](forest_blue.png)
-
-`framer.png`
-
-![image](framer.png)
 
 `front_end_delight.png`
 
@@ -399,10 +380,6 @@ Screenshots
 
 ![image](nightlion_v2.png)
 
-`nocturnal_winter.png`
-
-![image](nocturnal_winter.png)
-
 `novel.png`
 
 ![image](novel.png)
@@ -478,10 +455,6 @@ Screenshots
 `red_sands.png`
 
 ![image](red_sands.png)
-
-`relaxed.png`
-
-![image](relaxed.png)
 
 `rippedcasts.png`
 

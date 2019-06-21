@@ -10,15 +10,6 @@ import xrdb2terminator
 import xrdb2Xresources
 import xrdb2putty
 import xrdb2xfce_terminal
-import xrdb2Remmina
-import xrdb2Termite
-import xrdb2freebsd_vt
-import xrdb2kitty
-import xrdb2moba
-import xrdb2lxterm
-import xrdb2pantheon_terminal
-import xrdb2wezterm
-import xrdb2dynamic_color
 
 if __name__ == '__main__':
 
@@ -40,21 +31,3 @@ if __name__ == '__main__':
     print('OK --> ' + '../putty/')
     xrdb2xfce_terminal.main('../xrdb/', '../xfce4terminal/colorschemes/')
     print('OK --> ' + '../xfce4terminal/colorschemes/')
-    xrdb2Remmina.main('../xrdb/', '../remmina/')
-    print('OK --> ' + '../Remmina/')
-    xrdb2Termite.main('../xrdb/', '../termite/')
-    print('OK --> ' + '../termite/')
-    xrdb2freebsd_vt.main('../xrdb/', '../freebsd_vt/')
-    print('OK --> ' + '../freebsd_vt/')
-    xrdb2kitty.main('../xrdb/', '../kitty/')
-    print('OK --> ' + '../kitty/')
-    xrdb2moba.main('../xrdb', '../mobaxterm')
-    print('OK --> ' + '../mobaxterm/')
-    xrdb2lxterm.main('../xrdb', '../lxterminal')
-    print('OK --> ' + '../lxterminal/')
-    xrdb2pantheon_terminal.main('../xrdb/', '../pantheonterminal/')
-    print('OK --> ' + '../pantheonterminal/')
-    xrdb2wezterm.main('../xrdb/', '../wezterm/')
-    print('OK --> ' + '../wezterm/')
-    xrdb2dynamic_color.main('../xrdb/', '../dynamic-colors/')
-    print('OK --> ' + '../dynamic-colors/')
